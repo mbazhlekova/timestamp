@@ -1,4 +1,4 @@
-# TimestampMicroserviceElixir
+# Timestamp
 
 To start your Phoenix server:
 
