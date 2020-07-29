@@ -1,5 +1,9 @@
 # Timestamp
 
+A microservice that accepts a date string in ISO-8601 format and returns the corresponding Unix timestamp and UTC date.
+
+## Running locally
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
