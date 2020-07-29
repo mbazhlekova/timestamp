@@ -7,5 +7,7 @@ defmodule TimestampMicroserviceElixirWeb.Router do
 
   scope "/api", TimestampMicroserviceElixirWeb do
     pipe_through :api
+
+    get "/timestamp/:date", TimestampController, :show
   end
 end
